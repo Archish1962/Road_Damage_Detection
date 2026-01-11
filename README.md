@@ -67,4 +67,6 @@ python scripts/predict_test.py
 
 ### Dataset
 
-[Dataset](https://kaggle.com/datasets/2bbd360e1ca39095fb6c6be9a26acbdc759db6ea5b5d75406451230e8ab42260)
+[Dataset for hackathon](https://kaggle.com/datasets/2bbd360e1ca39095fb6c6be9a26acbdc759db6ea5b5d75406451230e8ab42260)
+
+[Original](https://www.kaggle.com/datasets/aliabdelmenam/rdd-2022)
